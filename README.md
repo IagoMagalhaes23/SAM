@@ -1,1 +1,1 @@
-# SAM_DinoV2
+# SAM
